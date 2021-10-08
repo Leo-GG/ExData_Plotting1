@@ -1,4 +1,4 @@
-This is my submission for the first peer-reviewed assignment from the "Exploratory Data Analysis" course at Coursera. Below are the original instructions for the assignment.
+This is my submission for the first peer-reviewed assignment from the "Exploratory Data Analysis" course from Coursera. Below are the original instructions for the assignment.
 
 ## Introduction
 
